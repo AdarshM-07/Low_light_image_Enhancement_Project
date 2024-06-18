@@ -7,7 +7,7 @@ In recent years, deep learning has revolutionised the field of image processing,
 ## Roadmap
 
 | Topic                         | Subtopics                                   | Details                                 |
-|-------------------------------|---------------------------------------------|-----------------------------------------||                                         |
+|-------------------------------|---------------------------------------------|-----------------------------------------|
 | **Project Details**           |                                             |                                         |
 |                               | **Phase 1: Denoising Low Light Image**      |                                         |
 |                               | Data Preparation                            |                                         |
