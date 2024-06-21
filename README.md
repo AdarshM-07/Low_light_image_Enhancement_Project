@@ -36,3 +36,56 @@ In recent years, deep learning has revolutionised the field of image processing,
 
 
 Can check out our PSNR values in the results section
+
+
+## Installation Instructions
+Follow these steps to set up the environment and run the project:
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/AdarshM-07/Low_light_image_Enhancement_Project.git
+   cd Low_light_image_Enhancement_Project
+
+2. **Create a Virtual Environment:**
+   ```sh
+   python -m venv Low_light_image_Enhancement  #     Creates the virtual environment folder
+   source Low_light_image_Enhancement/bin/activate  # Activate the virtual environment (Linux/macOS)
+   # OR
+   Low_light_image_Enhancement\Scripts\activate.bat  # Activate on Windows`
+   
+  
+
+3. **Install Dependencies:**
+
+   This project requires the following dependencies:
+  - [numpy](https://numpy.org/) (>=1.18.5)
+  - [TensorFlow](https://www.tensorflow.org/) (>=2.0.0)
+  - [OpenCV](https://opencv.org/) (cv2) (>=4.0.0)
+  - [matplotlib](https://matplotlib.org/) (>=3.0.0)
+  - [glob](https://docs.python.org/3/library/glob.html) (built-in module)
+  - [os](https://docs.python.org/3/library/os.html) (built-in module)
+    You can install the required packages using `pip`:
+    
+    ```sh
+    pip install numpy tensorflow opencv-python matplotlib
+
+
+4. **Run the Jupyter Notebook:**
+   ```sh
+   jupyter notebook Model_testing.ipynb
+
+
+
+  
+
+  
+  
+  
+
+
+
+
+
+
+
+
