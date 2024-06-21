@@ -73,19 +73,3 @@ Follow these steps to set up the environment and run the project:
 4. **Run the Jupyter Notebook:**
    ```sh
    jupyter notebook Model_testing.ipynb
-
-
-
-  
-
-  
-  
-  
-
-
-
-
-
-
-
-
